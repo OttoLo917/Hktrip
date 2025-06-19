@@ -1,0 +1,7 @@
+
+body { margin: 0; background: #fdf7f0; font-family: sans-serif; }
+.book { padding: 1rem; max-width: 800px; margin: auto; }
+.page { background: #fff; margin: 1rem 0; padding: 1rem 2rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); border-left: 8px solid #D5621A; }
+h1, h2 { color: #862929; }
+ul { padding-left: 1.2rem; }
+li { margin: 0.5rem 0; }
